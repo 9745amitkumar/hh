@@ -1,0 +1,34 @@
+
+h1{
+  color:#867ff7;
+}
+body{
+  background: #E0BBF2 ;
+  background-repeat: no-repeat;
+}
+h1{
+  background:  red;
+}
+
+ol li{
+  color:orange;
+}
+ul li {
+  color: yellow;}
+  h2 + ul{
+    color:red;
+  }
+h1{
+  font-size: 50px;
+  font-family:georgia;
+  text-align: center;
+  padding: 100px;
+  margin: 0 auto 50px 50px;
+}
+body{
+  font-size: 30px;
+  font-family:georgia;
+  text-align: center;
+  padding: 100px;
+  margin: 0 auto 50px 50px;
+}
